@@ -1,0 +1,28 @@
+/*
+ Theme Name:   Largo Child Theme
+ Theme URI:    http://sandbox.natalief.com
+ Description:  Religion News Service Employment Application, Project #2, Child theme.
+ Author:       Natalie Feibish
+ Author URI:   http://natalief.com
+ Template:     Largo-master
+ Version:      1.0.0
+*/
+
+
+/* Changed default link color. I took this to mean that visited links and links with specific classes were to retain their original properties. */
+a:link {
+	color : #ffefd5 ;
+	}
+
+/* Changed hover link color. */	
+a:hover {
+	color : #d5e5ff ;
+	}
+	
+/* Removed entire feature image area from Test-Category posts only; I removed the area instead of the image for a better appearance. */
+.category-test-category div.hero.is-image.span12 {
+    display: none;
+	}
+
+
+/* -------------- end code --------------- */
