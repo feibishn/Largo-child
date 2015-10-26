@@ -2,8 +2,8 @@
 
 /* 	Description:	New widgetized area for Largo child theme
 * 	Attribution:	Code adapted from wpgyan.com
-* 	Programmer:		Natalie Feibish 
-* 	Email:			feibishn@gmail.com 
+* 	Programmer:	Natalie Feibish 
+* 	Email:		feibishn@gmail.com 
 * 
 */
 
